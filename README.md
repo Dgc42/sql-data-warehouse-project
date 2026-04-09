@@ -2,7 +2,7 @@
 
 Welcome to this project. It is a personal project, its main goal is to practice building a Data Warehouse in SQL using SQL Server.
 
-This project is built following a great video from the Youtube Channel **Data With Baraa** : https://www.youtube.com/watch?v=9GVqKuTVANE
+This project was built following a great video from the Youtube Channel **Data With Baraa** : https://www.youtube.com/watch?v=9GVqKuTVANE
 
 ## MIT License
 
